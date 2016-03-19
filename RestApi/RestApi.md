@@ -1,7 +1,5 @@
 #LinkedIn Rest API Description
 
-===
-
 ##Search API Example
 ```
 Some thing wrong happened, waiting for further crack...
@@ -25,8 +23,8 @@ Some thing wrong happened, waiting for further crack...
 ```
 
 ##Send Invitation API
+Example for sending the invitation to Lunrong(Benjamin) Chen
+
 ```
 https://www.linkedin.com/m/mynetwork/invite-sent/ACoAABh375cB7ns6fzmNnSkbbc2PHqeMbvQTKhA/
 ```
-
-
