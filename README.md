@@ -1,5 +1,6 @@
 InOut 
 =======
+InOut is an auto tool for LinkedIn and include two kinds technical realization, Selenium and Rest API.
 
 Features for version 0.1
 
